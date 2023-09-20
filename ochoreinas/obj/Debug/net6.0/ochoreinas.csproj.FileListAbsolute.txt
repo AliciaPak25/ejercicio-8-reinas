@@ -1,0 +1,15 @@
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\obj\Debug\net6.0\ochoreinas.csproj.AssemblyReference.cache
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\obj\Debug\net6.0\ochoreinas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\obj\Debug\net6.0\ochoreinas.AssemblyInfoInputs.cache
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\obj\Debug\net6.0\ochoreinas.AssemblyInfo.cs
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\obj\Debug\net6.0\ochoreinas.csproj.CoreCompileInputs.cache
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\bin\Debug\net6.0\ochoreinas.exe
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\bin\Debug\net6.0\ochoreinas.deps.json
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\bin\Debug\net6.0\ochoreinas.runtimeconfig.json
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\bin\Debug\net6.0\ochoreinas.dll
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\bin\Debug\net6.0\ochoreinas.pdb
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\obj\Debug\net6.0\ochoreinas.dll
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\obj\Debug\net6.0\refint\ochoreinas.dll
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\obj\Debug\net6.0\ochoreinas.pdb
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\obj\Debug\net6.0\ochoreinas.genruntimeconfig.cache
+D:\Extrados Software Technology\Bootcamp Full Stack C# y React\Modulo 2\ochoreinas\ochoreinas\obj\Debug\net6.0\ref\ochoreinas.dll

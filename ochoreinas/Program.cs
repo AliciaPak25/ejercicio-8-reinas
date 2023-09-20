@@ -1,39 +1,4 @@
-﻿/* int l = (int)casillero.ocupado;
-Console.WriteLine("conteo de ConstarHasta():" + ContarHasta(9));
-// array
-int[] arrayInt = new int[6];
-// jagged array
-int[][] jaggedInt = new int[8][];
-
-jaggedInt[0] = new int[5];
-jaggedInt[1] = new int[8];
-
-// hacerlo con un for
-
- foreach(var arr in jaggedInt) {
-arr = new int[5];
-}
-
-// funcion recursiva
-int ContarHasta(int a, int contador = 0)
-{
-    Console.WriteLine("contador: " + contador + " a: " + a);
-    if (a == 0) return contador;
-    a--;
-    contador++;
-    return ContarHasta(a, contador);
-}
-
-
-enum casillero
-{
-    libre = 0,
-    ocupado = 1,
-    marcado = 2
-}
-*/
-
-// tablero con todos los casilleros libres
+﻿// tablero con todos los casilleros libres
 int[][] tablero = new int[8][];
 
 for (int i = 0; i < 8; i++)
@@ -44,6 +9,7 @@ for (int i = 0; i < 8; i++)
         tablero[i][j] = (int)casillero.libre;
     }
 }
+
 // boolean para verificar si se encuentra la solución
 bool solucionEncontrada = Resolver8Reinas(tablero, 0);
 
@@ -64,9 +30,11 @@ void ImprimirTablero(int[][] tablero)
         }
         Console.WriteLine();
     }
+
 // Función para verificar si un casillero del tablero es seguro para colocar una reina.
 bool EsCasilleroSeguro(int[][] tablero, int fila, int columna)
     {
+        // horizontal hacia la izquierda
         for (int i = 0; i < columna; i++)
         {
             if (tablero[fila][i] == (int)casillero.ocupado)
@@ -75,6 +43,7 @@ bool EsCasilleroSeguro(int[][] tablero, int fila, int columna)
             }
         }
 
+        // diagonal hacia arriba izquierda
         for (int i = fila, j = columna; i >= 0 && j >= 0; i--, j--)
         {
             if (tablero[i][j] == (int)casillero.ocupado)
@@ -83,6 +52,7 @@ bool EsCasilleroSeguro(int[][] tablero, int fila, int columna)
             }
         }
 
+        // diagonal hacia abajo izquierda
         for (int i = fila, j = columna; i < 8 && j >= 0; i++, j--)
         {
             if (tablero[i][j] == (int)casillero.ocupado)
@@ -140,5 +110,4 @@ enum casillero
 {
     libre = 0,
     ocupado = 1,
-    marcado = 2
 }
